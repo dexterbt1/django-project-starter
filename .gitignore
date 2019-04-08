@@ -1,0 +1,10 @@
+.DS_Store
+*.sw[opqrst]
+*.vim
+*.pyc
+.ropeproject/
+__pycache__/
+py/
+venv/
+tmp/
+deps/
